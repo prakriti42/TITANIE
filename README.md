@@ -25,7 +25,7 @@ Given the massive influence of data on building any AI model, the dataset was fi
 After the sucessfull refinement of the dataset, the pre-procesed data was saved as [ReadyToTrain.csv](https://github.com/prakriti42/TITANIE/blob/main/ReadyToTrain.csv) and used to build the [CART Model](https://github.com/prakriti42/TITANIE/blob/main/CART%20Classifer.ipynb).
 
 
-
+ 
 
 
 
